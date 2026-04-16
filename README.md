@@ -1,0 +1,2 @@
+PPF Summator: A Python-Based Microeconomic Optimisation Tool
+The  PPF Summator  is a specialised computational engine designed to mathematically aggregate two Production Possibility Frontiers (PPFs). Its primary objective is to determine the most efficient production split across distinct production units—such as multiple factories or agricultural fields—to derive the maximum possible output combination of two goods.
